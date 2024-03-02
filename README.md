@@ -1,12 +1,12 @@
-# Intersector-Crawl
+# Intersector-Crawler
 
 # Efficiently Assigning Numerical Values from Multiple Intersecting Polygons to Overlapping Areas: A Case Study of Austin Council Districts
 
-This project aims to efficiently assign numerical values from multiple intersecting polygons to overlapping areas, focusing on a case study of Austin Council Districts. It provides a solution to handle one-to-many cardinality issues commonly encountered in Geographic Information Systems (GIS) analysis.
+This project aims to assign numerical values from multiple intersecting polygons to overlapping areas efficiently, focusing on a case study of Austin Council Districts. It solves one-to-many cardinality issues commonly encountered in Geographic Information Systems (GIS) analysis.
 
 ## Overview
 
-The project addresses the challenge of assigning numerical codes to polygons based on the council districts they intersect. Traditional spatial join methods suffer from one-to-one cardinality limitations, leading to incomplete data representation. This project offers a solution to overcome these limitations by accurately identifying and assigning multiple council districts to intersecting polygons.
+The project addresses the challenge of assigning numerical codes to polygons based on the council districts in which they intersect. Traditional spatial join methods suffer from one-to-one cardinality limitations, leading to incomplete data representation. This project offers a solution to overcome these limitations by accurately identifying and assigning multiple council districts to intersecting polygons.
 
 ## Features
 
@@ -34,7 +34,7 @@ The project discusses potential factors contributing to slow performance, such a
 
 ## Contributing
 
-Contributions to the project are welcome! If you have suggestions for improvements, optimizations, or new features, feel free to open an issue or submit a pull request.
+Contributions to the project are welcome! Feel free to open an issue or submit a pull request if you have suggestions for improvements, optimizations, or new features.
 
 ## License
 
