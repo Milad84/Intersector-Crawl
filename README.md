@@ -18,7 +18,8 @@ The project addresses the challenge of assigning numerical codes to polygons bas
 
   ## Problem to be solved!
   ![image](https://github.com/Milad84/Intersector-Crawl/assets/38597478/62cea75a-1aa6-4398-885a-93f3db70c5d1)
-The highlighted polygon with a yellow outline is actually intersected by two council districts in purple and orange. However, in the attribute table, only one number is assigned, coming from whichever district was reached by the code in the background of Add Spatial Join. This is the famous case of one-to-one cardinality in GIS. What I need is a one-to-many handling mentioning both Council Districts as a value (e.g., 9, 3)
+
+--The highlighted polygon with a yellow outline is actually intersected by two council districts in purple and orange. However, in the attribute table, only one number is assigned, coming from whichever district was reached by the code in the background of Add Spatial Join. This is the famous case of one-to-one cardinality in GIS. What I need is a one-to-many handling mentioning both Council Districts as a value (e.g., 9, 3)
 
 ## Getting Started
 
